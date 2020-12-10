@@ -1,4 +1,3 @@
-import { ShoppingCartOutlined, UserOutlined } from '@ant-design/icons'
 import { Badge, Menu } from 'antd'
 import React from 'react'
 import logo from '../assets/icons/sunset.png'
@@ -9,7 +8,6 @@ import {
   InfoIcon,
   SpecialIcon,
   HireUsIcon,
-  CallIcon,
   UserIcon,
   ShoppingBagIcon,
 } from './CustomIcons'

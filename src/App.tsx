@@ -1,4 +1,3 @@
-import { Menu } from 'antd'
 import React from 'react'
 import './App.less'
 import { FullCarousel, Header } from './components'
